@@ -9,7 +9,7 @@ Mājaslapas apmeklētājiem _redzamā daļa_ jeb _front-end_ sastāv no [HTML](/
 
 HTML (Hypertext Markup Language) ir visu interneta dokumentu un mājaslapu pamatvaloda, kurā semantiski tiek strukturēts lapas saturs — tas ir, datoriem saprotami aprakstīts, kas mūsu lapā ir kas. Pārlūkprogrammā nospiežot F12 taustiņu (vai arī veicot labo klikšķi jebkur un izvēloties "Pārbaudīt" / "Inspect element"), atvērsies programmētāju labākais draugs — _izstrādātāju rīki_, kuras pirmajā cilnē _Elements_ varēs redzēt jebkuras lapas HTML kodu.
 
-![](/img/html.png)
+![HTML paraugs](/img/html.png)
 
 ## Piemērs
 
@@ -63,7 +63,7 @@ Ar šīs mājaslapas stiliem tas dotu šādu rezultātu:
 </div>
 
 Ievietojot augstākminēto kodu failā, kas beidzas ar paplašinājumu **.html** un atverot to interneta pārlūkprogrammā, mūsu ielūgums ar pārlūka noklusētajiem stiliem izskatītos šādi:
-![](/img/html2.png)
+![HTML paraugs](/img/html2.png)
 
 ## Tagi
 
