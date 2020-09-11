@@ -1,8 +1,9 @@
 module.exports = {
   url: process.env.URL || "http://localhost:8080",
-  siteName: "11ty Netlify Jumpstart",
+  siteTitle: "Izveide.lv",
+  siteName: "Tavs programmēšanas ceļvedis",
   siteDescription:
-    "Quickly launch an 11ty-generated static site. Includes a minimal Sass framework, and generated sitemap, RSS feed, and social share preview images.",
-  authorName: "Stephanie Eckles",
-  twitterUsername: "5t3ph", // no `@`
+    "Iemācies veidot mājaslapas un aplikācijas ar HTML, CSS un JavaScript palīdzību.",
+  authorName: "Armands Leimanis",
+  twitterUsername: "armn", // no `@`
 };

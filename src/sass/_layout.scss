@@ -11,7 +11,7 @@ body {
 // stylelint-disable selector-max-type, selector-no-qualifying-type
 main,
 main.tdbc-container {
-  padding-top: 5vh;
+  padding-top: 0;
   padding-bottom: 5vh;
 }
 
@@ -20,7 +20,7 @@ footer {
 }
 
 article {
-  max-width: 80ch;
+  max-width: 90ch;
 
   > img {
     margin-right: auto;
@@ -66,10 +66,10 @@ ul.tdbc-column-container {
 
 .tdbc-hero {
   display: grid;
-  min-height: 40vh;
+  min-height: 30vh;
   place-content: center;
-  padding-top: 10vh;
-  padding-bottom: 10vh;
+  padding-top: 5vh;
+  padding-bottom: 0;
   text-align: center;
 }
 
@@ -77,7 +77,7 @@ ul.tdbc-column-container {
   display: grid;
   grid-gap: 1rem;
 
-  @media (min-width: 80ch) {
+  @media (min-width: 90ch) {
     grid-auto-flow: column;
     grid-auto-columns: max-content;
   }
